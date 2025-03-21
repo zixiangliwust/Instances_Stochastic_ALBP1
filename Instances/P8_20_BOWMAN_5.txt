@@ -1,0 +1,27 @@
+<number of tasks>
+8
+<cycle time>
+20
+<order strength>
+0.000
+<z_alpha>
+1.960
+<task times>
+1 11 18.6871
+2 17 0.7969
+3 9 18.6131
+4 5 4.4313
+5 8 4.5614
+6 12 7.4786
+7 10 4.7462
+8 3 0.8836
+<precedence relations>
+1,2
+2,3
+2,4
+3,5
+3,6
+4,6
+5,7
+6,8
+<end>
