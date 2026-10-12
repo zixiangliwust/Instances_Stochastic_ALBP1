@@ -7,3 +7,13 @@ References:
 [3] Alena Otto, Christian Otto, Armin Scholl. Systematic data generation and test design for solution algorithms on the example of SALBPGen for assembly line balancing. European Journal of Operational Research, 2013, 228(1):33-45.  
 
 
+
+---
+
+## Document Index
+
+- [CHANGELOG.md](CHANGELOG.md) — version history and changelog
+- [VERSION](VERSION) — current version
+- [LICENSE](LICENSE) — license
+
+**Maintainer:** IISO Team ｜ **Version:** 1.0.0 ｜ **Last Updated:** 2026-10-12
